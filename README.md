@@ -1,2 +1,2 @@
-# video-processor
+# Java video processor
 一款在JAVE基础上的再封装视频处理插件，您可以在此基础上对视频进行各种操作，包括但不局限于添加视频水印、视频截屏、视频格式转换等操作
